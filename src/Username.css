@@ -1,0 +1,16 @@
+.username-box {
+  background-color: #128c7e;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: space-around;
+  height: 4%;
+  padding: 0.5em 1em;
+  gap: 0.5em;
+}
+
+.profile-name {
+  flex: 1;
+  font-size: 1.25rem;
+  cursor: pointer;
+}
